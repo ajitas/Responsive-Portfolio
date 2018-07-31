@@ -276,10 +276,7 @@ form {
      .headingwithnav {
          width:100%;
          margin-left:0px;
-         position:fixed;
-         top:0;
          float:none;
-         z-index:2;
          
      }
  
@@ -289,7 +286,7 @@ form {
          text-align:center;
          padding-bottom:25px;
          width:100%;
-         border-bottom:#cccccc solid;
+         border-bottom:#cccccc 1px solid;
          background:white;
          
      }
@@ -297,11 +294,6 @@ form {
          float:none;
          width:100%;
 
-     }
-
-     .container {
-         margin-top:140px;
-         z-index:1;
      }
 
      .portfolioimage {
